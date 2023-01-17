@@ -1,0 +1,156 @@
+[
+    {
+      "image": "assets/images/bugatti-chiron.jpg",
+      "name": "Bugatti Chiron",
+      "transmission": "Automatik",
+      "engine": "8.0 L",
+      "year": 2022
+    },
+    {
+      "image": "assets/images/packard-one-twenty.jpg",
+      "name": "Packard One-Twenty",
+      "transmission": "Manual",
+      "engine": "4.2 L",
+      "year": 1956
+    },
+    {
+      "image": "assets/images/mercedes-benz-w-108-s.jpg",
+      "name": "Mercedes-Benz W 108 in Schwarz",
+      "transmission": "Manual",
+      "engine": "4.5 L",
+      "year": 1968
+    },
+    {
+      "image": "assets/images/cadillac-other-fender-skirts.jpg",
+      "name": " Cadillac Other Fender Skirts",
+      "transmission": "Automatik",
+      "engine": "8.2 L",
+      "year": 1941
+    },
+    {
+      "image": "assets/images/lamborghini-countach.jpg",
+      "name": "Lamborghini Countach",
+      "transmission": "Automatik",
+      "engine": "5.2 L",
+      "year": 1990
+    },
+    {
+      "image": "assets/images/pontiac-firebird-one.jpg",
+      "name": "Pontiac Firebird One",
+      "transmission": "Manual",
+      "engine": "5.7 L",
+      "year": 1970
+    },
+    {
+      "image": "assets/images/mercedes-benz-300se-cabriolet.jpg",
+      "name": "Mercedes-Benz 300se Cabriolet",
+      "transmission": "Manual",
+      "engine": "6.3 L",
+      "year": 1967
+    },
+    {
+      "image": "assets/images/packard-sedan.jpg",
+      "name": "Packard Sedan",
+      "transmission": "Manual",
+      "engine": "5.2 L",
+      "year": 1938
+    },
+    {
+      "image": "assets/images/mercedes-benz-220-se-heckflosse.jpg",
+      "name": "Mercedes-Benz 220SE Heckflosse",
+      "transmission": "Manual",
+      "engine": "2.3 L",
+      "year": 1963
+    },
+    {
+      "image": "assets/images/chevrolet-sedan-coach.jpg",
+      "name": "Chevrolet Sedan Coach",
+      "transmission": "Automatik",
+      "engine": "3.5 L",
+      "year": 1929
+    },
+    {
+      "image": "assets/images/rolls-royce-phantom-II.jpg",
+      "name": "Rolls-Royce Phantom II",
+      "transmission": "Manual",
+      "engine": "7.7 L",
+      "year": 1931
+    },
+    {
+      "image": "assets/images/cadillac-convertible.jpg",
+      "name": "Cadillac Convertible",
+      "transmission": "Automatik",
+      "engine": "5.7 L",
+      "year": 1956
+    },
+    {
+      "image": "assets/images/cadillac-ldorado.jpg",
+      "name": "Cadillac Eldorado IV Convertible",
+      "transmission": "Automatik",
+      "engine": "5.7 L",
+      "year": 1956
+    },
+    {
+      "image": "assets/images/chevrolet-bel-air.jpg",
+      "name": "Chevrolet Bel Air",
+      "transmission": "Manual",
+      "engine": "3.5 L",
+      "year": 1955
+    },
+    {
+      "image": "assets/images/mercedes-benz-300se-typ-w108-r.jpg",
+      "name": "Mercedes-Benz W 108 in Rot",
+      "transmission": "Manual",
+      "engine": "4.5 L",
+      "year": 1965
+    },
+    {
+      "image": "assets/images/chevrolet-s.jpg",
+      "name": "Chevrolet in Schwarz",
+      "transmission": "Manual",
+      "engine": "5.6 L",
+      "year": 1956
+    },
+    {
+      "image": "assets/images/chevrolet-r.jpg",
+      "name": "Chevrolet in Rot",
+      "transmission": "Manual",
+      "engine": "5.6 L",
+      "year": 1955
+    },
+    {
+      "image": "assets/images/adam-opel-ag.jpg",
+      "name": "Adam Opel Ag Kapitän",
+      "transmission": "Manual",
+      "engine": "3.8 L",
+      "year": 1959
+    },
+    {
+      "image": "assets/images/ferrari-f360-spider.jpg",
+      "name": "Ferrari F360 Spider",
+      "transmission": "Automatik",
+      "engine": "3.6 L",
+      "year": 2005
+    },
+    {
+      "image": "assets/images/aston-martin.jpg",
+      "name": "Aston Martin Vantage",
+      "transmission": "Automatik",
+      "engine": "5.2 L",
+      "year": 2022
+    },
+    {
+      "image": "assets/images/rolls-royce-phantom-III.jpg",
+      "name": "Rolls-Royce Phantom III",
+      "transmission": "Manual",
+      "engine": "7.3 L",
+      "year": 1936
+    },
+    {
+      "image": "assets/images/rolls-royce-phantom-IV.jpg",
+      "name": "Rolls-Royce Phantom IV",
+      "transmission": "Manual",
+      "engine": "5.7 L",
+      "year": 1954
+    }
+  ]
